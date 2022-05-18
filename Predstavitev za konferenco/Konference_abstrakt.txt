@@ -1,0 +1,21 @@
+“EVOLVING NEURO-FUZZY SYSTEMS IN MONITORING AND CONTROL”
+
+Abstract: Major assumptions in computational intelligence and machine learning consist of the availability of a historical dataset for 
+model development, and that the resulting model will, to some extent, handle similar instances during its online operation. However,
+ in many real- world applications, these assumptions may not hold as the amount of previously available data may be insufficient to 
+represent the underlying system, and the environment and the system may change over time. As the amount of data increases, it is no 
+longer feasible to process data efficiently using iterative algorithms, which typically require multiple passes over the same portions of data. 
+Evolving identification from data streams has emerged as a framework to address these issues properly by self-adaptation, single-pass learning 
+steps and evolution as well as contraction of model components on demand and on the fly. This talk focuses on evolving fuzzy model identification
+ on-line, in real-time environments where learning and model development should be performed incrementally, and the use of this kind of models
+ in monitoring and control.
+
+Bio: Igor Škrjanc received B.S., M.S. and Ph.D. degrees in electrical engineering, in 1988, 1991 and 1996, respectively, 
+at the Faculty of Electrical and Computer Engineering, University of Ljubljana, Slovenia. He is currently a Full Professor 
+with the same faculty and Head of Laboratory for Autonomous and Mobile Systems. He is lecturing the basic control theory at 
+graduate and advanced intelligent control at postgraduate study. His main research areas are adaptive, predictive, neuro-fuzzy 
+and fuzzy adaptive control systems. His current research interests include also the field of autonomous mobile systems in sense of 
+localization, direct visual control and trajectory tracking control He is Humboldt research fellow, research fellow of JSPS and Chair of 
+Excellence at University Carlos III of Madrid and the fellow of  Slovenian Academy of Engineering.. He also serves as an Associated Editor
+for IEEE Transaction on Neural Networks and Learning System, IEEE Transaction on Fuzzy Systems, the Evolving Systems journal and International
+journal of artificial intelligence.
